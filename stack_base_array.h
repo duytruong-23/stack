@@ -20,8 +20,6 @@ public:
 	type pop();
 };
 
-#include "stack_base_array.h"
-
 template<class type>
 stack<type>::stack(int size)
 {
